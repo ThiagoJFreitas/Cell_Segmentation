@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+model/
+*.h5
 build/
 develop-eggs/
 dist/
